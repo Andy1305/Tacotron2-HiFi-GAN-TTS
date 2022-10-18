@@ -1,7 +1,7 @@
 # Tacotron2-HiFi-GAN-TTS
 
 
-## TO BE ADDED SOON
+## TO BE ADDED SOON (training on Google Colab)
 
 
 Implementation of [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884)
